@@ -31,7 +31,7 @@ samples, guidance on mobile development, and a full API reference.
 <li>📌 Connect to Hardware</li>  
 <li>📌 Profile UI</li>  
 <li>📌 Admin Panel (User ADD)</li>  
-
+<li> Better UI</li>
 
 
 ⚠️ **Restrictions:**  
