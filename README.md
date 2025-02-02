@@ -1,4 +1,4 @@
-# project
+# project 
 
 A new Flutter project.
 
@@ -6,15 +6,19 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<h1>APP diagram</h1>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/0ba5887a-4f56-4ef4-963e-fe0fd543933f)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>MongoDB Interface(Database)</h1>
 
+![image](https://github.com/user-attachments/assets/09bbde41-5aa3-46d1-806e-7424ddb3cf5f)
+
+<h1>Express and nodejs(backend) </h1>
+
+![image](https://github.com/user-attachments/assets/9e43d3da-cc9c-4072-b36b-51cf3f7ac0f3)
+
+<h1>Flutter(frontend)</h1>
 
 ✅ **Things Done:**  
 <li>📌 Database Set Up</li>  
