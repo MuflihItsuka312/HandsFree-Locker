@@ -22,6 +22,8 @@ samples, guidance on mobile development, and a full API reference.
 <li> JWT Token for user auth and sessions 1h</li>
 <li> JRegister And Login Page Connected to backend API </li>
 
+
+
 🚧 **Things Still Need to Do:** 
 <li>📌 Admin Panel</li>  
 <li>📌 History Log</li>  
@@ -29,6 +31,8 @@ samples, guidance on mobile development, and a full API reference.
 <li>📌 Connect to Hardware</li>  
 <li>📌 Profile UI</li>  
 <li>📌 Admin Panel (User ADD)</li>  
+
+
 
 ⚠️ **Restrictions:**  
 <li>📌 Requires high memory to debug in Android Emulator on desktop/laptop</li>  
